@@ -1,0 +1,8 @@
+{
+  "name": "KOREA CONNECT",
+  "description": "The Super App for foreigners living in South Korea. Integrates payments, transportation, visa support, and community features with AI assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
